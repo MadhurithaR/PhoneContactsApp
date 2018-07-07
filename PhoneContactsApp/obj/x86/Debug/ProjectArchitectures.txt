@@ -1,1 +1,0 @@
-C:\GitHub\c#\PhoneContactsApp\PhoneContactsApp\PhoneContactsApp.csproj;x86
