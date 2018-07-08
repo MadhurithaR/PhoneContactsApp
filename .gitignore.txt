@@ -1,0 +1,4 @@
+*.vs
+*.ide
+PhoneContactsApp/bin
+PhoneContactsApp/obj
